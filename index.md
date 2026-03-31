@@ -31,7 +31,7 @@ This artifact is based on the Grazioso Salvare Animal Shelter Dashboard develope
 - Added better error handling to increase system reliability
 
 # Repository Link
-https://github.com/kiimy93/grazioso-dashboard-enhancement
+[View Project Repository](https://github.com/kiimy93/grazioso-dashboard-enhancement)
 
 # Narrative
 This enhancement demonstrates my ability to refine existing software by identifying weaknesses

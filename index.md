@@ -20,3 +20,18 @@ Enhancements focused on improving code structure, optimizing filtering logic, an
 - Problem-solving and system improvement 
 
 https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing
+
+# Software Design and Engineering Enhancement
+
+This artifact is based on the Grazioso Salvare Animal Shelter Dashboard developed in CS340. The purpose of this enhancement was to improve security, code structure, and overall system reliability.
+
+# Enhancements Made
+- Removed hardcoded database credentials to improve security
+- Improved code organization and readability
+- Added better error handling to increase system reliability
+
+# Repository Link
+https://github.com/kiimy93/cs499-eportfolio
+
+# Narrative
+This enhancement demonstrates my ability to refine existing software by identifying weaknesses

@@ -19,8 +19,6 @@ Enhancements focused on improving code structure, optimizing filtering logic, an
 - Database integration with MongoDB  
 - Problem-solving and system improvement 
 
-https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing
-
 # Software Design and Engineering Enhancement
 
 This artifact is based on the Grazioso Salvare Animal Shelter Dashboard developed in CS340. The purpose of this enhancement was to improve security, code structure, and overall system reliability.
@@ -35,3 +33,6 @@ This artifact is based on the Grazioso Salvare Animal Shelter Dashboard develope
 
 # Narrative
 This enhancement demonstrates my ability to refine existing software by identifying weaknesses
+
+# Full Enhancement Narrative
+https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing

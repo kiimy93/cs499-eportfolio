@@ -34,5 +34,29 @@ This artifact is based on the Grazioso Salvare Animal Shelter Dashboard develope
 # Narrative
 This enhancement demonstrates my ability to refine existing software by identifying weaknesses
 
+
 # Full Enhancement Narrative
 https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing
+
+This enhancement focused on improving filtering logic and efficiency within the dashboard. The original implementation processed large datasets in memory, which was inefficient.
+
+# Enhancements Made
+- Optimized filtering logic to reduce unnecessary data processing  
+- Improved efficiency by minimizing repeated dataset operations  
+- Considered performance improvements and time complexity  
+
+# Repository Link
+[View Enhanced Dashboard Code](https://github.com/kiimy93/grazioso-dashboard-enhancement)
+
+## Database Enhancement
+
+This enhancement focused on improving database performance by implementing MongoDB query-based filtering instead of processing data entirely in memory.
+
+# Enhancements Made
+- Implemented MongoDB query filtering using `$and`, `$regex`, and range operators  
+- Reduced full dataset loading by querying only relevant records  
+- Improved data handling and error management  
+- Strengthened overall system performance  
+
+# Repository Link
+[View Enhanced Dashboard Code](https://github.com/kiimy93/grazioso-dashboard-enhancement)

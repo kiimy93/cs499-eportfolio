@@ -46,7 +46,7 @@ This enhancement focused on improving filtering logic and efficiency within the 
 - Considered performance improvements and time complexity  
 
 # Repository Link
-[View Enhanced Dashboard Code](https://github.com/kiimy93/grazioso-dashboard-enhancement)
+[https://github.com/kiimy93/grazioso-dashboard-enhancement/blob/main/ProjectTwoDashboard_Mod5.ipynb]
 
 ## Database Enhancement
 
@@ -59,4 +59,4 @@ This enhancement focused on improving database performance by implementing Mongo
 - Strengthened overall system performance  
 
 # Repository Link
-[View Enhanced Dashboard Code](https://github.com/kiimy93/grazioso-dashboard-enhancement)
+[https://github.com/kiimy93/grazioso-dashboard-enhancement/blob/main/ProjectTwoDashboard_Mod5.ipynb]

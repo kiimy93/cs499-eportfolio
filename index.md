@@ -4,7 +4,7 @@
 
 ## Professional Self Assessment
 
-https://docs.google.com/document/d/1tQthgeEKdaeEcoPTssGMfv_NG_10XZFW/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true
+[View Professional Self-Assessment](https://docs.google.com/document/d/1tQthgeEKdaeEcoPTssGMfv_NG_10XZFW/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true)
 
 This portfolio represents my growth throughout the Computer Science program, demonstrating my ability to design, develop, and improve software solutions. Through the enhancement of my artifacts, I have strengthened my skills in software engineering, algorithms, database integration, and security practices. Each project included in this portfolio highlights my ability to analyze existing systems, identify inefficiencies, and implement meaningful improvements aligned with industry standards.
 
@@ -12,7 +12,7 @@ This portfolio represents my growth throughout the Computer Science program, dem
 
 ## Code Review
 
-https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing
+[Watch Code Review Video](https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing)
 
 This artifact is a code review of the Grazioso Salvare Animal Shelter dashboard developed in CS 340. The purpose of this review is to evaluate the original implementation, identify areas for improvement, and highlight enhancements related to software design, algorithms, and data handling.
 

@@ -12,7 +12,7 @@ This portfolio represents my growth throughout the Computer Science program, dem
 
 ## Code Review
 
-[Watch Code Review Video] 
+[https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing]
 
 This artifact is a code review of the Grazioso Salvare Animal Shelter dashboard developed in CS 340. The purpose of this review is to evaluate the original implementation, identify areas for improvement, and highlight enhancements related to software design, algorithms, and data handling.
 

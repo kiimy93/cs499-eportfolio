@@ -12,7 +12,7 @@ This portfolio represents my growth throughout the Computer Science program, dem
 
 ## Code Review
 
-[https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing]
+https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing
 
 This artifact is a code review of the Grazioso Salvare Animal Shelter dashboard developed in CS 340. The purpose of this review is to evaluate the original implementation, identify areas for improvement, and highlight enhancements related to software design, algorithms, and data handling.
 
@@ -44,7 +44,7 @@ This enhancement focuses on improving the structure, security, and maintainabili
 
 ### Links
 - [View Project Repository](https://github.com/kiimy93/grazioso-dashboard-enhancement)  
-- [View Full Enhancement Narrative](https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing)  
+- [View Full Enhancement Narrative](https://docs.google.com/document/d/1QfCfZkGt_vzaoVibnoLSXsVmb8klR3Im/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true)
 
 ---
 
@@ -59,7 +59,7 @@ This enhancement focused on improving filtering logic and efficiency within the 
 
 ### Links
 - [View Enhanced Notebook](https://github.com/kiimy93/grazioso-dashboard-enhancement/blob/main/ProjectTwoDashboard_Mod5.ipynb)  
-- [View Full Enhancement Narrative](https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing)  
+- [View Full Enhancement Narrative](https://docs.google.com/document/d/1FvP4TPs6bJZrLSZFD_2zi9xHKOXqU33s/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true)
 
 ---
 
@@ -75,4 +75,4 @@ This enhancement focused on improving database performance by implementing Mongo
 
 ### Links
 - [View Enhanced Notebook](https://github.com/kiimy93/grazioso-dashboard-enhancement/blob/main/ProjectTwoDashboard_Mod5.ipynb)  
-- [View Full Enhancement Narrative](https://drive.google.com/file/d/1bLQP5PmDJ1lEpLq6-7imdjk0ZF5-NiXn/view?usp=sharing)  
+- [View Full Enhancement Narrative](https://docs.google.com/document/d/1Ceeg0AK_Y1UiJaieJdVJhN6GrIzLNqKy/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true)

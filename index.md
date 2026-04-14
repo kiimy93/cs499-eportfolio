@@ -4,7 +4,7 @@
 
 ## Professional Self Assessment
 
-[View Professional Self-Assessment]
+https://docs.google.com/document/d/1tQthgeEKdaeEcoPTssGMfv_NG_10XZFW/edit?usp=sharing&ouid=113314623485759809063&rtpof=true&sd=true
 
 This portfolio represents my growth throughout the Computer Science program, demonstrating my ability to design, develop, and improve software solutions. Through the enhancement of my artifacts, I have strengthened my skills in software engineering, algorithms, database integration, and security practices. Each project included in this portfolio highlights my ability to analyze existing systems, identify inefficiencies, and implement meaningful improvements aligned with industry standards.
 
